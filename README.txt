@@ -1,0 +1,1 @@
+Min ekonomi v2. Ingen bankkoppling. Data sparas lokalt i webbläsaren. Uppdatera GitHub Pages genom att ersätta filerna i repositoryt.
