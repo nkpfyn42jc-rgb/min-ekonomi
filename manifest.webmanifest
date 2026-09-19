@@ -1,0 +1,17 @@
+{
+  "name": "Min ekonomi",
+  "short_name": "Min ekonomi",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#061226",
+  "theme_color": "#07152e",
+  "lang": "sv-SE",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
